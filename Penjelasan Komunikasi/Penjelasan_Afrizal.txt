@@ -1,0 +1,30 @@
+Nama : Afrizal Hendra Pratama
+NIM  : 16523041
+Fakultas : STEI-R
+
+Jenis Jenis Komunikasi Serial:
+
+1. I2C (Inter-Integrated Circuit)
+Penjelasan : 12C atau Inter-Integrated Circuit adalah komunikasi serial elektronik anta IC yang melalui dua jalur yaitu SDA (Serial Data Line) dan SCL (Serial Clock Line), I2C ini digunakan dalam berbagai perangkat seperti sensor, EEPROM, mikrokontroler, dan lainnya.
+
+2. SPI (Serial Peripheral Interface)
+Penjelasan : SPI (Serial Peripheral Interface) adalah protokol komunikasi serial yang digunakan untuk mentransmisikan data antara perangkat mikrokontroler dan perangkat eksternal seperti sensor, memori dan display
+
+3. UART (Universal Asynchronous Receiver and Transmitter)
+Penjelasan : UART adalah komunikasi serial yang digunakan untuk mengontrol komputer dan perangkat serial dengan jarak yang jauh. UART mengirim dan menerima data bit demi bit antar perangkat dalam sebuah sistem. UART digunakan untuk komunikasi antara perangkat mikrokontroler dan perangkat eksternal, seperti komputer, sensor, atau modul radio.
+
+
+4. CAN (Controller Area Network)
+Penjelasan :  CAN (Controller Area Network) adalah protokol komunikasi yang digunakan untuk menghubungkan dan memungkinkan komunikasi antara berbagai perangkat atau sistem luar dengan komputer. CAN sering digunakan dalam kendaraan otomotif dan industri. Protokol komunikasi ini memungkinkan pertukaran data real-time dan koordinasi antara perangkat di dalam jaringan.
+
+5. I2S (Inter-IC Sound)
+Penjelasan : I2S (Inter-IC Sound) adalah protokol komunikasi digital yang digunakan untuk mentransmisikan data audio antar perangkat dalam sebuah sistem . Dalam I2S terdapat riga jalur utama yaitu:  Serial Data Line (SD), Serial Clock Line (SCK), dan Word Select Line (WS atau LRCLK). Dalam Pengunaannya 12S ditemukan pada MP3, speaker , STB dll
+
+6. Modbus (Modicon Bus)
+Penjelasan : Modbus Mendukung berbagai fungsi, seperti pembacaan dan penulisan register, mengirim perintah, dan meminta status dari perangkat.
+
+7. GPIO(General Purpose Input Output)
+Penjelasan : GPIO (General Purpose Input Output) adalah antarmuka pada perangkat keras komputer atau mikrokontroler yang memungkinkan kontrol dan interaksi dengan perangkat luar. GPIO bisa digunakan untuk membaca input dari sensor, mengontrol lampu LED, mengendalikan motor, atau berinteraksi dengan perangkat luar lainnya.
+
+8. SDIO (Secure Digital Input/Output)
+Penjelasan : SDIO digunakan untuk menyediakan kemampuan input dan output pada kartu memori SD. SDIO memungkinkan perangkat yang memilikinya untuk berkomunikasi dengan perangkat eksternal seperti kartu Wi-Fi, Bluetooth, kamera dll 
